@@ -1,0 +1,4 @@
+22565 10065 Gauche Ahmed Iman Latifa 18 12 2022 Homme 0
+20074 10001 Centre Farid Omar Khadija 24 12 2022 Homme 0
+20186 10055 Gauche Salma Rihanna Hedil 3 12 2022 Femme 0
+21260 10047 Droite Samar Amin Hatem 7 12 2022 Femme 0

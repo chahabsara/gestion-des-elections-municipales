@@ -1,0 +1,9 @@
+taux : 0.500000 / homme : 1 / femme : 1 
+taux : 0.500000 / homme : 1 / femme : 1 
+taux : 0.500000 / homme : 1 / femme : 1 
+taux : 0.500000 / homme : 1 / femme : 1 
+taux : 0.500000 / homme : 1 / femme : 1 
+taux : 0.500000 / homme : 1 / femme : 1 
+taux : 0,250000 / homme : 3 / femme : 1 
+taux : 0,250000 / homme : 3 / femme : 1 
+taux : 0,250000 / homme : 3 / femme : 1 

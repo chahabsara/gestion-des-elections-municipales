@@ -1,0 +1,6 @@
+erty 3 3 2023 Tunis 50001 30 ghazela non_robot
+wxc 1 1 1999 Tunis 123 10 ariana non_robot
+wxcv 1 1 0 Ariana 123 60 ghazela robot!!!
+1212121 1 1 1999 Tunis 212 10 ariana H
+az 1 1 1999 Ariana 1234 10 ghazela non_robot
+aw 1 1 1999 Ariana 1234 10 ariana H
